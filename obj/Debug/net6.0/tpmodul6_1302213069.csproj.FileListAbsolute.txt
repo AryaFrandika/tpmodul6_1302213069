@@ -1,0 +1,15 @@
+C:\Users\aryaf\OneDrive\Documents\!!TELKOMUNIVERSITY!!\MATA KULIAH\SEM 4\Konstruksi Perangkat Lunak\TP\tpmodul6_1302213069\tpmodul6_1302213069\obj\Debug\net6.0\tpmodul6_1302213069.csproj.AssemblyReference.cache
+C:\Users\aryaf\OneDrive\Documents\!!TELKOMUNIVERSITY!!\MATA KULIAH\SEM 4\Konstruksi Perangkat Lunak\TP\tpmodul6_1302213069\tpmodul6_1302213069\obj\Debug\net6.0\tpmodul6_1302213069.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryaf\OneDrive\Documents\!!TELKOMUNIVERSITY!!\MATA KULIAH\SEM 4\Konstruksi Perangkat Lunak\TP\tpmodul6_1302213069\tpmodul6_1302213069\obj\Debug\net6.0\tpmodul6_1302213069.AssemblyInfoInputs.cache
+C:\Users\aryaf\OneDrive\Documents\!!TELKOMUNIVERSITY!!\MATA KULIAH\SEM 4\Konstruksi Perangkat Lunak\TP\tpmodul6_1302213069\tpmodul6_1302213069\obj\Debug\net6.0\tpmodul6_1302213069.AssemblyInfo.cs
+C:\Users\aryaf\OneDrive\Documents\!!TELKOMUNIVERSITY!!\MATA KULIAH\SEM 4\Konstruksi Perangkat Lunak\TP\tpmodul6_1302213069\tpmodul6_1302213069\obj\Debug\net6.0\tpmodul6_1302213069.csproj.CoreCompileInputs.cache
+C:\Users\aryaf\OneDrive\Documents\!!TELKOMUNIVERSITY!!\MATA KULIAH\SEM 4\Konstruksi Perangkat Lunak\TP\tpmodul6_1302213069\tpmodul6_1302213069\bin\Debug\net6.0\tpmodul6_1302213069.exe
+C:\Users\aryaf\OneDrive\Documents\!!TELKOMUNIVERSITY!!\MATA KULIAH\SEM 4\Konstruksi Perangkat Lunak\TP\tpmodul6_1302213069\tpmodul6_1302213069\bin\Debug\net6.0\tpmodul6_1302213069.deps.json
+C:\Users\aryaf\OneDrive\Documents\!!TELKOMUNIVERSITY!!\MATA KULIAH\SEM 4\Konstruksi Perangkat Lunak\TP\tpmodul6_1302213069\tpmodul6_1302213069\bin\Debug\net6.0\tpmodul6_1302213069.runtimeconfig.json
+C:\Users\aryaf\OneDrive\Documents\!!TELKOMUNIVERSITY!!\MATA KULIAH\SEM 4\Konstruksi Perangkat Lunak\TP\tpmodul6_1302213069\tpmodul6_1302213069\bin\Debug\net6.0\tpmodul6_1302213069.dll
+C:\Users\aryaf\OneDrive\Documents\!!TELKOMUNIVERSITY!!\MATA KULIAH\SEM 4\Konstruksi Perangkat Lunak\TP\tpmodul6_1302213069\tpmodul6_1302213069\bin\Debug\net6.0\tpmodul6_1302213069.pdb
+C:\Users\aryaf\OneDrive\Documents\!!TELKOMUNIVERSITY!!\MATA KULIAH\SEM 4\Konstruksi Perangkat Lunak\TP\tpmodul6_1302213069\tpmodul6_1302213069\obj\Debug\net6.0\tpmodul6_1302213069.dll
+C:\Users\aryaf\OneDrive\Documents\!!TELKOMUNIVERSITY!!\MATA KULIAH\SEM 4\Konstruksi Perangkat Lunak\TP\tpmodul6_1302213069\tpmodul6_1302213069\obj\Debug\net6.0\refint\tpmodul6_1302213069.dll
+C:\Users\aryaf\OneDrive\Documents\!!TELKOMUNIVERSITY!!\MATA KULIAH\SEM 4\Konstruksi Perangkat Lunak\TP\tpmodul6_1302213069\tpmodul6_1302213069\obj\Debug\net6.0\tpmodul6_1302213069.pdb
+C:\Users\aryaf\OneDrive\Documents\!!TELKOMUNIVERSITY!!\MATA KULIAH\SEM 4\Konstruksi Perangkat Lunak\TP\tpmodul6_1302213069\tpmodul6_1302213069\obj\Debug\net6.0\tpmodul6_1302213069.genruntimeconfig.cache
+C:\Users\aryaf\OneDrive\Documents\!!TELKOMUNIVERSITY!!\MATA KULIAH\SEM 4\Konstruksi Perangkat Lunak\TP\tpmodul6_1302213069\tpmodul6_1302213069\obj\Debug\net6.0\ref\tpmodul6_1302213069.dll
