@@ -8,6 +8,11 @@ class SayaTubeVideo
 
     public SayaTubeVideo(string title)
     {
+        if (string.IsNullOrEmpty(title) || title.Length > 100)
+        {
+            throw new ArgumentException("Judul tidak valid");
+        }
+
         Random random = new Random();
         this.id = random.Next(00000, 99999);
         this.title = title;
@@ -16,7 +21,22 @@ class SayaTubeVideo
 
     public void IncreasePlayCount(int n)
     {
-        this.playCount += n;
+        if (n > 10000000)
+        {
+            throw new ArgumentException("Jumlah play count terlalu besar");
+        }
+
+        try
+        {
+            checked
+            {
+                this.playCount += n;
+            }
+        }
+        catch (OverflowException)
+        {
+            throw new OverflowException("Melebihi batas maksimum");
+        }
     }
 
     public void PrintVideoDetails()
@@ -31,9 +51,39 @@ class Program
 {
     static void Main(string[] args)
     {
-        string judul = "Tutorial Design By Contract - Arya Frandika Daulay";
-        SayaTubeVideo video = new SayaTubeVideo(judul);
-        video.IncreasePlayCount(1);
+        SayaTubeVideo video = new SayaTubeVideo("Tutorial Design By Contract - Arya Frandika Daulay");
+        video.IncreasePlayCount(10000000);
         video.PrintVideoDetails();
+
+        try
+        {
+            SayaTubeVideo kosong = new SayaTubeVideo(null);
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+
+        try
+        {
+            string title = new string("juduljuduljuduljuduljuduljuduljuduljuduljuduljuduljuduljuduljuduljuduljuduljuduljuduljuduljuduljuduljuduljuduljudul");
+            SayaTubeVideo judul = new SayaTubeVideo(title);
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+
+        try
+        {
+            for (int i = 0; i < 100000; i++)
+            {
+                video.IncreasePlayCount(1000000);
+            }
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e.Message);
+        }
     }
 }
